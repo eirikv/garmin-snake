@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/utils/Direction.mc" lineNum="10" pc="268435456" symbol="getNewDirection"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/utils/Direction.mc" lineNum="11" pc="268435460" symbol="getNewDirection"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/utils/Direction.mc" lineNum="13" pc="268435501" symbol="getNewDirection"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/utils/Direction.mc" lineNum="14" pc="268435521" symbol="getNewDirection"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/utils/Direction.mc" lineNum="16" pc="268435539" symbol="getNewDirection"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/utils/Direction.mc" lineNum="17" pc="268435559" symbol="getNewDirection"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/utils/Direction.mc" lineNum="19" pc="268435577" symbol="getNewDirection"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/utils/ButtonHandler.mc" lineNum="12" pc="268435582" symbol="setCallback"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/utils/ButtonHandler.mc" lineNum="13" pc="268435586" symbol="setCallback"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/utils/ButtonHandler.mc" lineNum="16" pc="268435597" symbol="onKey"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/utils/ButtonHandler.mc" lineNum="17" pc="268435601" symbol="onKey"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/utils/ButtonHandler.mc" lineNum="18" pc="268435658" symbol="onKey"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/utils/ButtonHandler.mc" lineNum="20" pc="268435706" symbol="onKey"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/utils/ButtonHandler.mc" lineNum="21" pc="268435719" symbol="onKey"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="7" pc="268435747" symbol="initialize"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="8" pc="268435751" symbol="initialize"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="9" pc="268435801" symbol="initialize"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="12" pc="268435852" symbol="getDirection"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="13" pc="268435856" symbol="getDirection"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="16" pc="268435866" symbol="setDirection"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="17" pc="268435870" symbol="setDirection"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="20" pc="268435881" symbol="grow"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="21" pc="268435885" symbol="grow"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="24" pc="268435936" symbol="isDead"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="25" pc="268435940" symbol="isDead"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="28" pc="268435950" symbol="canEatFood"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="29" pc="268435954" symbol="canEatFood"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="32" pc="268435975" symbol="update"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="33" pc="268435979" symbol="update"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="35" pc="268435992" symbol="update"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="36" pc="268436028" symbol="update"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="37" pc="268436053" symbol="update"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="38" pc="268436063" symbol="update"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="41" pc="268436067" symbol="update"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="44" pc="268436108" symbol="update"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="47" pc="268436125" symbol="draw"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="48" pc="268436129" symbol="draw"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="49" pc="268436159" symbol="draw"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="53" pc="268436196" symbol="getHead"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="54" pc="268436200" symbol="getHead"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="57" pc="268436216" symbol="getNewHead"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="58" pc="268436220" symbol="getNewHead"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="60" pc="268436233" symbol="getNewHead"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="61" pc="268436288" symbol="getNewHead"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="62" pc="268436353" symbol="getNewHead"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="65" pc="268436392" symbol="getNewHead"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="66" pc="268436447" symbol="getNewHead"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Snake.mc" lineNum="67" pc="268436512" symbol="getNewHead"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Pebble.mc" lineNum="11" pc="268436552" symbol="initialize"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Pebble.mc" lineNum="12" pc="268436556" symbol="initialize"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Pebble.mc" lineNum="13" pc="268436570" symbol="initialize"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Pebble.mc" lineNum="16" pc="268436585" symbol="getX"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Pebble.mc" lineNum="17" pc="268436589" symbol="getX"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Pebble.mc" lineNum="20" pc="268436599" symbol="getY"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Pebble.mc" lineNum="21" pc="268436603" symbol="getY"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Pebble.mc" lineNum="24" pc="268436613" symbol="setX"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Pebble.mc" lineNum="25" pc="268436617" symbol="setX"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Pebble.mc" lineNum="26" pc="268436637" symbol="setX"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Pebble.mc" lineNum="28" pc="268436664" symbol="setX"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Pebble.mc" lineNum="30" pc="268436689" symbol="setX"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Pebble.mc" lineNum="34" pc="268436700" symbol="setY"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Pebble.mc" lineNum="35" pc="268436704" symbol="setY"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Pebble.mc" lineNum="36" pc="268436724" symbol="setY"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Pebble.mc" lineNum="38" pc="268436751" symbol="setY"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Pebble.mc" lineNum="40" pc="268436776" symbol="setY"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Pebble.mc" lineNum="44" pc="268436787" symbol="draw"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Pebble.mc" lineNum="45" pc="268436791" symbol="draw"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Pebble.mc" lineNum="46" pc="268436816" symbol="draw"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Pebble.mc" lineNum="48" pc="268436841" symbol="draw"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Pebble.mc" lineNum="51" pc="268436886" symbol="equals"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Pebble.mc" lineNum="52" pc="268436890" symbol="equals"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Game.mc" lineNum="11" pc="268436944" symbol="initialize"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Game.mc" lineNum="12" pc="268436948" symbol="initialize"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Game.mc" lineNum="15" pc="268436979" symbol="onTimerUpdate"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Game.mc" lineNum="16" pc="268436983" symbol="onTimerUpdate"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Game.mc" lineNum="18" pc="268437001" symbol="onTimerUpdate"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Game.mc" lineNum="19" pc="268437021" symbol="onTimerUpdate"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Game.mc" lineNum="22" pc="268437036" symbol="onTimerUpdate"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Game.mc" lineNum="24" pc="268437064" symbol="onTimerUpdate"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Game.mc" lineNum="27" pc="268437097" symbol="onTimerUpdate"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Game.mc" lineNum="30" pc="268437114" symbol="draw"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Game.mc" lineNum="31" pc="268437118" symbol="draw"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Game.mc" lineNum="32" pc="268437138" symbol="draw"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Game.mc" lineNum="35" pc="268437159" symbol="onButtonClicked"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Game.mc" lineNum="36" pc="268437163" symbol="onButtonClicked"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Game.mc" lineNum="38" pc="268437201" symbol="onButtonClicked"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Game.mc" lineNum="41" pc="268437222" symbol="start"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Game.mc" lineNum="42" pc="268437226" symbol="start"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Game.mc" lineNum="44" pc="268437254" symbol="start"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Game.mc" lineNum="47" pc="268437296" symbol="stop"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Game.mc" lineNum="48" pc="268437300" symbol="stop"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Game.mc" lineNum="51" pc="268437319" symbol="addFood"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Game.mc" lineNum="52" pc="268437323" symbol="addFood"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Game.mc" lineNum="53" pc="268437351" symbol="addFood"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/components/Game.mc" lineNum="55" pc="268437379" symbol="addFood"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/SnakeApp.mc" lineNum="6" pc="268437414" symbol="initialize"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/SnakeApp.mc" lineNum="7" pc="268437418" symbol="initialize"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/SnakeApp.mc" lineNum="11" pc="268437437" symbol="onStart"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/SnakeApp.mc" lineNum="15" pc="268437442" symbol="onStop"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/SnakeApp.mc" lineNum="19" pc="268437447" symbol="getInitialView"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/SnakeApp.mc" lineNum="20" pc="268437451" symbol="getInitialView"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/SnakeApp.mc" lineNum="21" pc="268437475" symbol="getInitialView"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/SnakeApp.mc" lineNum="22" pc="268437501" symbol="getInitialView"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/MainView.mc" lineNum="9" pc="268437529" symbol="initialize"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/MainView.mc" lineNum="10" pc="268437533" symbol="initialize"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/MainView.mc" lineNum="12" pc="268437551" symbol="initialize"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/MainView.mc" lineNum="18" pc="268437562" symbol="onShow"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/MainView.mc" lineNum="19" pc="268437566" symbol="onShow"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/MainView.mc" lineNum="23" pc="268437593" symbol="onUpdate"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/MainView.mc" lineNum="24" pc="268437597" symbol="onUpdate"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/MainView.mc" lineNum="26" pc="268437637" symbol="onUpdate"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/MainView.mc" lineNum="28" pc="268437649" symbol="onUpdate"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/MainView.mc" lineNum="34" pc="268437670" symbol="onHide"/>
+<entry filename="/Users/eirikvigeland/Projects/garmin-snake/source/MainView.mc" lineNum="35" pc="268437674" symbol="onHide"/>
+<entry filename="Rez" lineNum="16" pc="268437693" symbol="initialize"/>
+<entry filename="Rez" lineNum="17" pc="268437697" symbol="initialize"/>
+<entry filename="Rez" lineNum="20" pc="268437722" symbol="draw"/>
+<entry filename="Rez" lineNum="21" pc="268437726" symbol="draw"/>
+<entry filename="Rez" lineNum="22" pc="268437733" symbol="draw"/>
+<entry filename="Rez" lineNum="23" pc="268437740" symbol="draw"/>
+<entry filename="Rez" lineNum="24" pc="268437753" symbol="draw"/>
+<entry filename="Rez" lineNum="25" pc="268437766" symbol="draw"/>
+<entry filename="Rez" lineNum="28" pc="268437789" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="30" pc="268437793" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="31" pc="268437829" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="44" pc="268437922" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="46" pc="268437934" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="47" pc="268437970" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="48" pc="268437997" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="52" pc="268438013" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388698" method="true" symbol="start"/>
+<entry id="18" method="true" symbol="getY"/>
+<entry id="17" method="true" symbol="getX"/>
+<entry id="31" method="true" symbol="canEatFood"/>
+<entry id="38" object="true" symbol="MainBackground"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="21" symbol="SIZE"/>
+<entry field="true" id="22" symbol="PADDING"/>
+<entry id="15" object="true" symbol="SnakeApp"/>
+<entry field="true" id="23" symbol="SIZE_WITH_PADDING"/>
+<entry field="true" id="27" symbol="direction"/>
+<entry id="8389097" method="true" symbol="onKey"/>
+<entry field="true" id="45" symbol="UP"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="33" method="true" symbol="getHead"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="55" method="true" symbol="onTimerUpdate"/>
+<entry id="13" object="true" symbol="Pebble"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="40" method="true" symbol="MainLayout"/>
+<entry field="true" id="8388705" symbol="callback"/>
+<entry field="true" id="52" symbol="snake"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry field="true" id="24" symbol="GRID_SIZE"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="39" method="true" symbol="drawComplex"/>
+<entry field="true" id="26" symbol="dead"/>
+<entry field="true" id="50" symbol="game"/>
+<entry id="49" method="true" symbol="getNewDirection"/>
+<entry field="true" id="53" symbol="timer"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="41" symbol="AppName"/>
+<entry field="true" id="43" symbol="BUTTON_DOWN"/>
+<entry field="true" id="46" symbol="LEFT"/>
+<entry id="12" object="true" symbol="Snake"/>
+<entry id="28" method="true" symbol="setDirection"/>
+<entry field="true" id="42" symbol="BUTTON_UP"/>
+<entry field="true" id="37" symbol="LauncherIcon"/>
+<entry id="44" method="true" symbol="setCallback"/>
+<entry id="8388646" module="true" object="true" symbol="Timer"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="32" method="true" symbol="update"/>
+<entry id="34" method="true" symbol="getNewHead"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry field="true" id="48" symbol="RIGHT"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="20" method="true" symbol="setY"/>
+<entry id="19" method="true" symbol="setX"/>
+<entry field="true" id="54" symbol="food"/>
+<entry id="11" object="true" symbol="ButtonHandler"/>
+<entry id="10" object="true" symbol="Direction"/>
+<entry id="8389119" method="true" symbol="getDirection"/>
+<entry id="16" object="true" symbol="MainView"/>
+<entry id="8388787" method="true" symbol="equals"/>
+<entry field="true" id="51" symbol="buttonHandler"/>
+<entry field="true" id="47" symbol="DOWN"/>
+<entry id="14" object="true" symbol="Game"/>
+<entry id="36" module="true" symbol="Layouts"/>
+<entry id="57" method="true" symbol="addFood"/>
+<entry id="30" method="true" symbol="isDead"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="25" symbol="pebbles"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="35" module="true" symbol="Menus"/>
+<entry id="8388699" method="true" symbol="stop"/>
+<entry field="true" id="8390079" symbol="y"/>
+<entry field="true" id="8390078" symbol="x"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="29" method="true" symbol="grow"/>
+<entry id="56" method="true" symbol="onButtonClicked"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435580" name="newDirection" stackId="3" startPc="268435460"/>
+<entry endPc="268435581" name="button" stackId="1" startPc="268435456"/>
+<entry endPc="268435581" name="currentDirection" stackId="2" startPc="268435456"/>
+<entry endPc="268435597" name="callback" stackId="1" startPc="268435582"/>
+<entry endPc="268435742" name="button" stackId="2" startPc="268435658"/>
+<entry endPc="268435746" name="evt" stackId="1" startPc="268435597"/>
+<entry endPc="268435881" name="direction" stackId="1" startPc="268435866"/>
+<entry endPc="268435975" name="food" stackId="1" startPc="268435950"/>
+<entry endPc="268436108" name="i" stackId="2" startPc="268436028"/>
+<entry endPc="268436124" name="newHead" stackId="1" startPc="268435979"/>
+<entry endPc="268436195" name="i" stackId="2" startPc="268436159"/>
+<entry endPc="268436196" name="dc" stackId="1" startPc="268436125"/>
+<entry endPc="268436389" name="x" stackId="2" startPc="268436288"/>
+<entry endPc="268436548" name="y" stackId="3" startPc="268436447"/>
+<entry endPc="268436551" name="head" stackId="1" startPc="268436220"/>
+<entry endPc="268436585" name="x" stackId="1" startPc="268436552"/>
+<entry endPc="268436585" name="y" stackId="2" startPc="268436552"/>
+<entry endPc="268436700" name="x" stackId="1" startPc="268436613"/>
+<entry endPc="268436787" name="y" stackId="1" startPc="268436700"/>
+<entry endPc="268436885" name="x" stackId="2" startPc="268436791"/>
+<entry endPc="268436885" name="y" stackId="3" startPc="268436791"/>
+<entry endPc="268436886" name="dc" stackId="1" startPc="268436787"/>
+<entry endPc="268436944" name="other" stackId="1" startPc="268436886"/>
+<entry endPc="268437159" name="dc" stackId="1" startPc="268437114"/>
+<entry endPc="268437221" name="newDirection" stackId="2" startPc="268437163"/>
+<entry endPc="268437222" name="button" stackId="1" startPc="268437159"/>
+<entry endPc="268437296" name="buttonHandler" stackId="1" startPc="268437222"/>
+<entry endPc="268437413" name="x" stackId="1" startPc="268437323"/>
+<entry endPc="268437413" name="y" stackId="2" startPc="268437323"/>
+<entry endPc="268437442" name="state" stackId="1" startPc="268437437"/>
+<entry endPc="268437447" name="state" stackId="1" startPc="268437442"/>
+<entry endPc="268437528" name="mainView" stackId="2" startPc="268437451"/>
+<entry endPc="268437528" name="buttonHandler" stackId="1" startPc="268437451"/>
+<entry endPc="268437562" name="buttonHandler" stackId="1" startPc="268437529"/>
+<entry endPc="268437670" name="dc" stackId="1" startPc="268437593"/>
+<entry endPc="268437788" name="pWidth" stackId="4" startPc="268437726"/>
+<entry endPc="268437788" name="pY" stackId="3" startPc="268437726"/>
+<entry endPc="268437788" name="pX" stackId="2" startPc="268437726"/>
+<entry endPc="268437788" name="pHeight" stackId="5" startPc="268437726"/>
+<entry endPc="268437789" name="dc" stackId="1" startPc="268437722"/>
+<entry endPc="268437922" name="pWidth" stackId="4" startPc="268437789"/>
+<entry endPc="268437922" name="dc" stackId="1" startPc="268437789"/>
+<entry endPc="268437922" name="pY" stackId="3" startPc="268437789"/>
+<entry endPc="268437922" name="pX" stackId="2" startPc="268437789"/>
+<entry endPc="268437922" name="pHeight" stackId="5" startPc="268437789"/>
+<entry endPc="268438030" name="rez_cmp_local_custom_drawable_MainBackground" stackId="2" startPc="268437934"/>
+<entry endPc="268438031" name="dc" stackId="1" startPc="268437922"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="getNewDirection" parent="Direction">
+<param id="button"/>
+<param id="currentDirection"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="setCallback" parent="ButtonHandler">
+<param id="callback"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onKey" parent="ButtonHandler">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Snake">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getDirection" parent="Snake">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="setDirection" parent="Snake">
+<param id="direction"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="grow" parent="Snake">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="isDead" parent="Snake">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="canEatFood" parent="Snake">
+<param id="food"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="update" parent="Snake">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="Snake">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getHead" parent="Snake">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="getNewHead" parent="Snake">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Pebble">
+<param id="x"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getX" parent="Pebble">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getY" parent="Pebble">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="setX" parent="Pebble">
+<param id="x"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="setY" parent="Pebble">
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="Pebble">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="equals" parent="Pebble">
+<param id="other"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Game">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerUpdate" parent="Game">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="Game">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onButtonClicked" parent="Game">
+<param id="button"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="start" parent="Game">
+<param id="buttonHandler"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="stop" parent="Game">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="addFood" parent="Game">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="SnakeApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="SnakeApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="SnakeApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="SnakeApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MainView">
+<param id="buttonHandler"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="MainView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="MainView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="MainView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MainBackground">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="MainBackground">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawComplex" parent="MainBackground">
+<param id="dc"/>
+<param id="pX"/>
+<param id="pY"/>
+<param id="pWidth"/>
+<param id="pHeight"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="95" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="254" parentId="globals" symbolId="Pebble" type="class"/>
+<dataEntry offset="428" parentId="globals" symbolId="SnakeApp" type="class"/>
+<dataEntry offset="499" parentId="globals" symbolId="Snake" type="class"/>
+<dataEntry offset="642" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="721" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="768" parentId="Drawables" symbolId="MainBackground" type="class"/>
+<dataEntry offset="831" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="862" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="893" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="924" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="963" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="1002" parentId="globals" symbolId="ButtonHandler" type="class"/>
+<dataEntry offset="1089" parentId="globals" symbolId="Direction" type="class"/>
+<dataEntry offset="1176" parentId="globals" symbolId="MainView" type="class"/>
+<dataEntry offset="1263" parentId="globals" symbolId="Game" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
