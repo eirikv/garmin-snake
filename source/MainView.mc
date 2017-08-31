@@ -2,22 +2,18 @@ using Toybox.WatchUi as Ui;
 
 class MainView extends Ui.View {
 
-    hidden const game = new Game();
-
-    hidden var buttonHandler;
+    hidden var game;
 
     function initialize(buttonHandler) {
         View.initialize();
 
-        self.buttonHandler = buttonHandler;
+        self.game = new Game(buttonHandler);
     }
 
     // Called when this View is brought to the foreground. Restore
     // the state of this View and prepare it to be shown. This includes
     // loading resources into memory.
-    function onShow() {
-        self.game.start(self.buttonHandler);
-    }
+    function onShow() {}
 
     // Update the view
     function onUpdate(dc) {

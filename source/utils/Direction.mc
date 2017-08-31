@@ -1,3 +1,5 @@
+using Toybox.WatchUi as Ui;
+
 class Direction {
 
     enum {
@@ -8,7 +10,7 @@ class Direction {
     }
 
     function getNewDirection(button, currentDirection) {
-        var newDirection = (button == ButtonHandler.BUTTON_UP) ? currentDirection - 1 : currentDirection + 1;
+        var newDirection = (button == Ui.KEY_UP) ? currentDirection - 1 : currentDirection + 1;
 
         if (newDirection < Direction.UP) {
             return Direction.RIGHT;
